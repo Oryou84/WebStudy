@@ -1,0 +1,9 @@
+.header{
+    margin-top: 0px;
+    background-color: rgb(255, 217, 180);
+    height: 100px;
+}
+.header h1{
+    padding: 25px 30px ;
+    color: rgb(0, 102, 128);
+}
